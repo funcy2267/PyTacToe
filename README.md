@@ -1,5 +1,5 @@
 # PyTacToe
-TicTacToe game recreation made in python and based on turtle module.
+TicTacToe game recreation made in python (using **turtle** module).
 # Installation
 Copy all files and run `main.py`.
 # Controls
